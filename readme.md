@@ -22,8 +22,5 @@ eCommerce platform built with the MERN stack & Redux.
 - PayPal / credit card integration
 - Database seeder (products & users)
 
-## Usage
 
-- Create a MongoDB database and obtain your `MongoDB URI` - [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register)
-- Create a PayPal account and obtain your `Client ID` - [PayPal Developer](https://developer.paypal.com/)
 
